@@ -1,0 +1,2 @@
+def define():
+    print("Okay")
